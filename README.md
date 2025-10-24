@@ -18,7 +18,7 @@ If I had more time, I would:
 It was my first time working with PHP and Laravel, and it was quite interesting to work with these technologies.
 
 ## How To Run The Project Locally
-1. Add this .env file to the codebase
+1. Add this .env file to the codebase (make sure to save this file)
 ```
 APP_NAME=Laravel
 APP_ENV=local
